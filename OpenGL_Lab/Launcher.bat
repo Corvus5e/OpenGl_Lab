@@ -1,0 +1,1 @@
+Debug\OpenGL_Lab.exe -mu 0.08 -m 5.9 -u_start 0.0 -u_end 3.14 -v_start 0.0 -v_end 15.0 -u_step 0.05 -v_step 0.1
